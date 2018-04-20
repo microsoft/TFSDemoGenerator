@@ -1,13 +1,13 @@
-## Demo Generator for TFS
+## Team Foundation Server-Demo Generator
 
-**Demo Generator for TFS** is a tool to create Team Projects in your TFS 2017 and later versions.
+**Team Foundation Server-Demo Generator** is a tool to create Team Projects in your TFS 2017 and later versions.
 
 ### Pre-requisites
 1. Windows Server 2012 and later version of OS or
 
 1. Windows client Windows 10 OS
 
-1. Download the .Zip file from [here](https://github.com/Microsoft/TFSDemoGenerator/blob/Tfs_DemoGenerator/TfsDG_Publish.zip?raw=true)
+1. Download the .Zip file from [here](https://github.com/Microsoft/TFSDemoGenerator/blob/master/TfsDG_Publish.zip?raw=true)
 
 1. Configure IIS in your machine
 
