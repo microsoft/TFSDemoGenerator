@@ -12,7 +12,7 @@
 1. Configure IIS in your machine
 
 
-<img src="Images\iisConfigure.png" alt="iisconfigure"></img>
+   <img src="Images\iisConfigure.png" alt="iisconfigure"></img>
 
 1. Provide Site name
 
@@ -29,11 +29,6 @@
 1. Windows server 2012 R2
 
 1. Windows 10
-
-## The other way you can run the application
- 1. Clone the solution form Source folder. It requires VS2015 or above.
-
- 1. Run the web application.
 
 
 > For more information how to configure IIS on your machine please follow the links provided below.
