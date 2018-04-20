@@ -1,14 +1,45 @@
+## Demo Generator for TFS
 
-# Contributing
+**Demo Generator for TFS** is a tool to create Team Projects in your TFS 2017 and later versions.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
+### Pre-requisites
+1. Windows Server 2012 and later version of OS or
 
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+1. Windows client Windows 10 OS
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+1. Download the .Zip file from [here](https://raw.githubusercontent.com/Akshayvh94/TFSDemogenerator/master/TfsDG_Publish.zip)
+
+1. Configure IIS in your machine
+
+
+<img src="Images\iisConfigure.png" alt="iisconfigure"></img>
+
+1. Provide Site name
+
+1. Select the physical path of the folder where you extracted zip file
+
+1. Provide the Port number. If port 80 is already in use, provide different port number.
+
+1. Click Ok and Browse your site.
+
+## Tool has been tested for the following OS
+
+1. Windows server 2016 Datacenter
+
+1. Windows server 2012 R2
+
+1. Windows 10
+
+## The other way you can run the application
+ 1. Clone the solution form Source folder. It requires VS2015 or above.
+
+ 1. Run the web application.
+
+
+> For more information how to configure IIS on your machine please follow the links provided below.
+
+https://docs.microsoft.com/en-us/iis/application-frameworks/scenario-build-an-aspnet-website-on-iis/configuring-step-1-install-iis-and-asp-net-modules
+
+
+https://docs.microsoft.com/en-us/iis/get-started/whats-new-in-iis-8/installing-iis-8-on-windows-server-2012
+
