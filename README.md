@@ -13,6 +13,8 @@
 
 1. Download the .Zip file from [here](https://github.com/Microsoft/TFSDemoGenerator/blob/master/TFS2018.zip?raw=true) for TFS 2018
 
+1. Download the .Zip file from [here](https://github.com/Microsoft/TFSDemoGenerator/blob/master/TFS2019.zip?raw=true) for Azure DevOps Server 2019
+
 
 
 1. Configure IIS in your machine
